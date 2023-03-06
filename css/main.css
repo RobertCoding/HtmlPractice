@@ -7,6 +7,24 @@
     float: left;
 }
 
+.menu .title .imgStyle{
+    width: 50px;
+}
+
+.menu .title .min_picture{
+    background: url(../images/shell500x500.png);
+    background-size: 50px auto;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.title{
+    width: 100%;
+    height: 100px;
+    background-color: #4A4A4A;
+}
+
 .content {
     width: 100vh;
     height: 100vh;
